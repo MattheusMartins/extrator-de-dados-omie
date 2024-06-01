@@ -1,0 +1,5 @@
+rotas:
+  - ["geral/clientes/", "ListarClientes"]  # Rota de chamadas para listar clientes na API do OMIE.
+  - ["geral/produtos/", "ListarProdutos"]  # Rota de chamadas para listar produtos na API do OMIE.
+  - ["produtos/nfconsultar/", "ListarNF"]  # Rota de chamadas para consultar notas fiscais de produtos na API do OMIE.
+

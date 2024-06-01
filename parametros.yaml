@@ -1,0 +1,3 @@
+pagina: 1  # Número da página a ser consultada na API do OMIE.
+registros_por_pagina: 50  # Número de registros por página a serem retornados na consulta à API.
+apenas_importado_api: "N"  # Indicador para filtrar os registros apenas se foram importados via API, inicialmente configurado como "N" (não).
