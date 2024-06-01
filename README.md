@@ -40,7 +40,7 @@ OMIE_APP_SECRET: fed2163e2e8dccb53ff914ce9e2f1258  # Segredo de aplicativo do OM
 **endpoint_base:** Define a URL base para as chamadas à API do OMIE.
 
 ```Python
-endpoint_base = "https://app.omie.com.br/api/v1/"  # Define a URL base para as chamadas à API do OMIE.
+ url = f"https://app.omie.com.br/api/v1/{endpoint}"
 ```
 
 ## Configuração de rotas para chamados da API
