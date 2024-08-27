@@ -1,2 +1,2 @@
-OMIE_APP_KEY: 38333295000  # Chave de aplicativo do OMIE, necessária para autenticação na API.
-OMIE_APP_SECRET: fed2163e2e8dccb53ff914ce9e2f1258  # Segredo de aplicativo do OMIE, também necessário para autenticação na API.
+OMIE_APP_KEY: CHAVEAQUI  # Chave de aplicativo do OMIE, necessária para autenticação na API.
+OMIE_APP_SECRET: CHAVEAQUI  # Segredo de aplicativo do OMIE, também necessário para autenticação na API.
